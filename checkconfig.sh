@@ -7,3 +7,5 @@ if [[ "$output" == *"successful"* ]]; then
 else
     echo "Không thành công"
 fi
+
+
